@@ -1,5 +1,7 @@
 # Jackgils
-Handy Problem 
+Handy Problem  
+
+Cep Telefonu Sorunu
 
 Önce küçük bir düzeltme: Büyük ihtimalle cihazın adı Redmi Note 13 Pro Max veya benzer bir Xiaomi/Redmi modelidir (çünkü “S23 Pro Max” genelde Samsung’a ait olur). Ama anlatacağım ayarlar tüm Redmi/Xiaomi cihazlarda aynıdır 👍
 
@@ -83,3 +85,8 @@ Uzun süre aynı görüntü kalırsa AMOLED ekranlarda yanma (burn-in) olabilir
 ---
 
 İstersen cihazının tam modelini söyle, sana %100 net menü yolu ve ekran görüntüsü gibi adım adım göstereyim 👍
+
+
+---
+Ek bilgi: Güç Tasarrufu modu kapalı
+Geliştirici seçenekleri varsa, "yükleme sırasında ekranı etkin bırak"
